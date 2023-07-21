@@ -2,6 +2,8 @@
 
 ## [Project 1: Movie Recommendation System Model](https://github.com/kevinDjane/Movielens_KevinJane)
 
+**Programming Lenguage:** R
+
 This capstone project is the #1 out of 2 projects for the [final course](https://pll.harvard.edu/course/data-science-capstone?delta=3) of a nine-course series of the [Data Science Professional Certificate by Harvard](https://pll.harvard.edu/series/professional-certificate-data-science).
 
 The database used in this project, was introduced in for some exercises in the course [PH125.8x: Data Science: Machine Learning](https://pll.harvard.edu/course/data-science-machine-learning?delta=0). 
