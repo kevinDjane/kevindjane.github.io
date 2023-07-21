@@ -1,6 +1,6 @@
 # Kevin Jané Portfolio
 
-# [Project 1: Movie Recommendation System Model]{https://github.com/kevinDjane/Movielens_KevinJane}
+#[Project 1: Movie Recommendation System Model](https://github.com/kevinDjane/Movielens_KevinJane)
 
 This capstone project is the #1 out of 2 projects for the [final course](https://pll.harvard.edu/course/data-science-capstone?delta=3) of a nine-course series of the [Data Science Professional Certificate by Harvard](https://pll.harvard.edu/series/professional-certificate-data-science).
 
