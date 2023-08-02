@@ -2,7 +2,7 @@
 
 ## [Movie Recommendation System Model](https://1drv.ms/b/s!ApIvbFGNCRDNgtVUkAGyWm85arnEvg?e=U1EZyH)
 
-**[Link to code](https://github.com/kevinDjane/Movielens_KevinJane))**
+**[Link to code](https://github.com/kevinDjane/Movielens_KevinJane)**
 
 **Programming Lenguage:** R
 
