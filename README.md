@@ -2,7 +2,7 @@
 
 ## [Movie Recommendation System Model](https://1drv.ms/b/s!ApIvbFGNCRDNgtVUkAGyWm85arnEvg?e=U1EZyH)
 
-**[Link to code](https://github.com/kevinDjane/Movielens_KevinJane)**
+*[Link to code](https://github.com/kevinDjane/Movielens_KevinJane)*
 
 **Programming Lenguage:** R
 
@@ -15,7 +15,7 @@ With the 10M dataset, our goal is to accomplish a similar algorithm with R, to c
 
 ## [Income Prediction using Machine Learning](https://1drv.ms/b/s!ApIvbFGNCRDNgtVTqpL9fJRau2MV7g?e=1W5mLC)
 
-**[Link to code](https://github.com/kevinDjane/PredictingIncome_Adult_Data_Base)**
+*[Link to code](https://github.com/kevinDjane/PredictingIncome_Adult_Data_Base)*
 
 **Programming Lenguage:** R
 
