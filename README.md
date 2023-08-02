@@ -3,6 +3,7 @@
 ## [Movie Recommendation System Model](https://1drv.ms/b/s!ApIvbFGNCRDNgtVUkAGyWm85arnEvg?e=U1EZyH)
 
 **[Link to code]([https://github.com/kevinDjane/PredictingIncome_Adult_Data_Base](https://github.com/kevinDjane/Movielens_KevinJane))**
+
 **Programming Lenguage:** R
 
 This capstone project is the #1 out of 2 projects for the [final course](https://pll.harvard.edu/course/data-science-capstone?delta=3) of a nine-course series of the [Data Science Professional Certificate by Harvard](https://pll.harvard.edu/series/professional-certificate-data-science).
@@ -15,6 +16,7 @@ With the 10M dataset, our goal is to accomplish a similar algorithm with R, to c
 ## [Income Prediction using Machine Learning](https://1drv.ms/b/s!ApIvbFGNCRDNgtVTqpL9fJRau2MV7g?e=1W5mLC)
 
 **[Link to code](https://github.com/kevinDjane/PredictingIncome_Adult_Data_Base)**
+
 **Programming Lenguage:** R
 
 This capstone project is the #2 out of 2 projects for the [final course](https://pll.harvard.edu/course/data-science-capstone?delta=3) of a nine-course series of the [Data Science Professional Certificate by Harvard](https://pll.harvard.edu/series/professional-certificate-data-science).
