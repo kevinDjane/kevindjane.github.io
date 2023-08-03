@@ -44,6 +44,15 @@ The database used in this project, was introduced in for some exercises in the c
 This [MovieLens project](https://dl.acm.org/doi/10.1145/2827872), was inspired by the Netflix Kaggle competition, that created an algorithm with a error rate by at least 10%. The algorithm created an improved movie recomendation system.
 With the 10M dataset, our goal is to accomplish a similar algorithm with R, to create a recommendation system for the provided users that would recommend movies based on rating. The course goal is to acomplish a RMSE lower than **0.86490**. I achieved an RMSE of **0.8648170**.
 
+| Model                                       | RMSE      |
+|---------------------------------------------|-----------|
+| Naive Model                                 | 1.0611350 |
+| Movie Effect Model                          | 0.9441568 |
+| Movie + User Effects Model                  | 0.8659736 |
+| Regularized Movie + User Effect Model       | 0.8654673 |
+| Regularized Movie + User Effect Model Validated | 0.8648170 |
+
+
 ## [Income Prediction using Machine Learning. January, 2022](https://1drv.ms/b/s!ApIvbFGNCRDNgtVTqpL9fJRau2MV7g?e=1W5mLC)
 
 *[Link to code](https://github.com/kevinDjane/PredictingIncome_Adult_Data_Base)*
