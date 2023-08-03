@@ -69,7 +69,7 @@ The most interesting results were:
 \end{itemize}
 
 
-## [ . July, 2021](https://oei.int/oficinas/paraguay/publicaciones/factores-determinantes-del-aprovechamiento-de-las-tecnologias-de-la-informacion-y-la-comunicacion-tic-en-la-ensenanza-y-aprendizaje-de-estudiantes-de-la-educacion-escolar-basica-y-educacion-media-de-instituciones-oficiales-de-paraguay)
+## [Determining factors in the use of information and communication technologies (ICT). July, 2021](https://oei.int/oficinas/paraguay/publicaciones/factores-determinantes-del-aprovechamiento-de-las-tecnologias-de-la-informacion-y-la-comunicacion-tic-en-la-ensenanza-y-aprendizaje-de-estudiantes-de-la-educacion-escolar-basica-y-educacion-media-de-instituciones-oficiales-de-paraguay)
 
 **Software:** Excel
 
