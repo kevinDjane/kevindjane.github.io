@@ -51,7 +51,6 @@ The database used in this project, was done by Barry Becker from the [1994 Censu
 With this dataset, our goal is to use at least two more complicated models that we used in the first project, that was a Movie Recommender from the [MovieLens Project](https://dl.acm.org/doi/10.1145/2827872), in that case we used only one metric for the models, that was the REMSE (Root Mean Square Deviation).
 For this project, we try to predict the **Income Level** with three models (SVM, Decision Tree and Random Forest) and four metrics (Accuracy, F1 Score, Sensitivity and Specificity) to evaluate our models.
 
-
 ## [Analysis of the determinants of scientific productivity of researchers in Paraguay and it's potential impact on higher education in Paraguay. November, 2021](https://desarrollo.edu.py/wp-content/uploads/2022/12/DIGITAL-Informe-final-PINV18-1532-1.pdf)
 
 **Software:** Excel
@@ -63,12 +62,9 @@ From this, I performed the analysis of the data to generate a storytelling that 
 The aforementioned H-index was created based on public data available in Google Scholar.
 
 The most interesting results were:
-\begin{itemize}
-\The productivity of women, as measured by the h-index, is 14% lower than that of a male researcher with all other characteristics equal.
-\item The factors that make the academic training process, all other variables equal, a researcher with a Phd is expected to have an h-index between 69% and 85% higher than that of a researcher with only a bachelor's degree.
-\item In summary, when considering spaces for actions aimed at promoting greater productivity of researchers in Paraguay, the importance of training at the doctoral level stands out, and that it should be in the best ranked universities.
-\end{itemize}
-
+- The productivity of women, as measured by the h-index, is 14% lower than that of a male researcher with all other characteristics equal.
+- The factors that make the academic training process, all other variables equal, a researcher with a Phd is expected to have an h-index between 69% and 85% higher than that of a researcher with only a bachelor's degree.
+- In summary, when considering spaces for actions aimed at promoting greater productivity of researchers in Paraguay, the importance of training at the doctoral level stands out, and that it should be in the best ranked universities.
 
 ## [Determining factors in the use of information and communication technologies (ICT). July, 2021](https://oei.int/oficinas/paraguay/publicaciones/factores-determinantes-del-aprovechamiento-de-las-tecnologias-de-la-informacion-y-la-comunicacion-tic-en-la-ensenanza-y-aprendizaje-de-estudiantes-de-la-educacion-escolar-basica-y-educacion-media-de-instituciones-oficiales-de-paraguay)
 
@@ -79,10 +75,9 @@ The purpose of this research is to identify and analyze the determinants of the 
 I was part of the research team that performed the analysis of the data that was previously collected and processed.
 
 Among the results found, the most outstanding are:
-\begin{itemize}
-\item Very few students have laptops at home, only 8.0% of students in the 1st and 2nd cycles of basic school education and 15.7% of those in the 3rd cycle of basic and middle school education, and even fewer have desktop computers.
-\item Only 1 out of every 4 BSE and MS students has wired or wireless Internet access.
-\item The gap in the use of WhatsApp by area (urban vs. rural) is almost 40 percentage points between students in the 1st and 2nd cycle of basic school education; this gap is smaller between students in the 3rd cycle of basic school education and middle school education (11.6 percentage points).
+- Very few students have laptops at home, only 8.0% of students in the 1st and 2nd cycles of basic school education and 15.7% of those in the 3rd cycle of basic and middle school education, and even fewer have desktop computers.
+- Only 1 out of every 4 BSE and MS students has wired or wireless Internet access.
+- The gap in the use of WhatsApp by area (urban vs. rural) is almost 40 percentage points between students in the 1st and 2nd cycle of basic school education; this gap is smaller between students in the 3rd cycle of basic school education and middle school education (11.6 percentage points).
 
 
 
