@@ -56,6 +56,15 @@ The database used in this project, was done by Barry Becker from the [1994 Censu
 With this dataset, our goal is to use at least two more complicated models that we used in the first project, that was a Movie Recommender from the [MovieLens Project](https://dl.acm.org/doi/10.1145/2827872), in that case we used only one metric for the models, that was the REMSE (Root Mean Square Deviation).
 For this project, we try to predict the **Income Level** with three models (SVM, Decision Tree and Random Forest) and four metrics (Accuracy, F1 Score, Sensitivity and Specificity) to evaluate our models.
 
+The results I achieved are in the following table:
+
+| Model                           | Accuracy   | F1Score    | Sensitivity | Specificity |
+|---------------------------------|------------|------------|-------------|-------------|
+| SVM (Support Vector Machine)    | 0.7949610  | 0.8748356  | 0.8077354   | 0.6945668   |
+| Decision Tree                   | 0.8020885  | 0.8783619  | 0.8157048   | 0.7058824   |
+| Random Forest                   | 0.8075584  | 0.8782381  | 0.8367306   | 0.6656948   |
+
+
 ## [Analysis of the determinants of scientific productivity of researchers in Paraguay and it's potential impact on higher education in Paraguay. November, 2021](https://desarrollo.edu.py/wp-content/uploads/2022/12/DIGITAL-Informe-final-PINV18-1532-1.pdf)
 
 **Software:** Excel
