@@ -26,6 +26,8 @@ For this report, we have assessed six platforms for and delivery services in Par
 The overall scores were very low and show that there is still a lot of work to be done to that much remains to be done to ensure basic labor standards for basic labor standards for platform workers in Paraguay. platform workers in Paraguay. Of the six platforms only two, MUV and PedidosYa, were able to score points. points. These two platforms lead the first Fairwork ranking in ranking in Paraguay with a score of two and one point respectively. and one point respectively. In view of these results, the platforms should take platforms must take concrete measures to ensure that their workers that their workers have basic labor rights. 
 rights.
 
+![Fairwork_2022](/images/Fairwork_tedic_2022.png)
+
 ## [Movie Recommendation System Model. January, 2022](https://1drv.ms/b/s!ApIvbFGNCRDNgtVUkAGyWm85arnEvg?e=U1EZyH)
 
 *[Link to code](https://github.com/kevinDjane/Movielens_KevinJane)*
