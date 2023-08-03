@@ -10,6 +10,9 @@ This research was based on the work developed by the Harvard Public Opinion Proj
 the ID, within the framework of the Rule of Law and Culture of Integrity program, with technical and financial support from the United States Agency for International Development (USAID).
 
 I was part of the Data Analysis team, that developed the analysis of the Aldrich-McKelvey model, it was established that the preferences of the young people surveyed are located in the following areas of the young people surveyed are located in the center with a slight bias to the left. 
+
+![IDEJ_2da_ed](/images/IDEJ_2da_ed.png)
+
 This is related to the fact that young people were mostly in favor of state intervention, with the exception of national intervention. 
 intervention, with the exception of the nationalization of the country's most important companies. Precisely, the model aligned this issue with the right-wing ideology, more associated with liberalism. 
 On the other hand, the density curve reflects that young people are mostly concentrated in the center ideology (0), being this the point of origin from which their respective preferences are delineated. However, the Aldrich-McKelvey model does not identify all the dimensions that make up the political spectrum. 
